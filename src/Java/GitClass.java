@@ -6,6 +6,7 @@ public class GitClass {
         System.out.println("Hello GIT");
         System.out.println("Git add ");
         System.out.println("Git commit");
+        System.out.println("Git push");
 
 
 
